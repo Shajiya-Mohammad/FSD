@@ -1,0 +1,40 @@
+.bg-container{
+   background-color: rgb(227, 200, 112);
+   padding: 10px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   border-width: 10px;
+   border-color: rgb(159, 115, 6);
+   border-radius: 8px;
+   text-align: center;
+   border-style: dashed;
+}
+.heading1{
+    color: rgb(25, 181, 205);
+    margin-left: auto;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(196, 16, 16);
+}
+.name{
+    color: rgb(20, 20, 112);
+    font-size: 18px;
+}
+.para1{
+    text-align: left;
+}
+.heading2{
+    color: rgb(44, 151, 187);
+    font-weight: 300;
+}
+.friends-info{
+    border-color: black;
+    border-radius: 10px ;
+    border-style: dotted;
+    padding: 50px;
+    background-color: aqua;
+}
+th{
+    margin: 6px;
+    border-color: black;
+    border-style: groove;
+}
